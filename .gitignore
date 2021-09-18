@@ -130,4 +130,4 @@ dmypy.json
 
 # Local files
 integrated_project.ipynb
-/.csv
+/*.csv
